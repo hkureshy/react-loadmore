@@ -1,0 +1,24 @@
+.loadmore-btn-container {
+  width: 100%;
+}
+
+.loadmore-btn {
+  background: transparent;
+  color: #161616;
+  padding: 8px 16px;
+  border: 2px solid #161616;
+  margin: 0 auto;
+  display: table;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+.loadmore-btn:hover {
+  cursor: pointer;
+  background: #161616;
+  color: #fff;
+}
+
+.loadmore-btn:focus {
+  outline: none;
+}
